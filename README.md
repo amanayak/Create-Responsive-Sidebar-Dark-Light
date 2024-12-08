@@ -1,5 +1,5 @@
 # Responsive Sidebar Dark & Light Mode
-## [Live Preview](https://youtu.be/OxftwnqyNVI)
+## [Live Preview](https://amanayak.github.io/Create-Responsive-Sidebar-Dark-Light/)
 ### Responsive Sidebar Dark & Light Mode
 
 - Responsive Sidebar Menu Using HTML CSS And JavaScript
